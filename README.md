@@ -1,5 +1,5 @@
 # TikTok-Notes
-TikTok Notes Combine
+TikTok Notes Automation Tool
 
 (Account Creator, AutoUploading, etc.)
 
